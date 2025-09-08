@@ -1,0 +1,31 @@
+#EXTM3U
+
+# ============ 1) বাংলাদেশি চ্যানেল ============
+
+#EXTINF:-1, BD IPTV (500+ Channels)
+https://raw.githubusercontent.com/Shadmanislam/bdiptv/master/BD%20IPTV.m3u
+
+#EXTINF:-1, Bangladesh – iptv-org
+https://iptv-org.github.io/iptv/countries/bd.m3u
+
+# ============ 2) ভারতীয় চ্যানেল ============
+
+#EXTINF:-1, India – iptv-org
+https://iptv-org.github.io/iptv/countries/in.m3u
+
+# ============ 3) বিদেশি (International) ============
+
+#EXTINF:-1, All Channels – iptv-org (international)
+https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:-1, Sports Category – iptv-org 
+https://iptv-org.github.io/iptv/categories/sport.m3u
+
+#EXTINF:-1, News Category – iptv-org
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+#EXTINF:-1, Entertainment Category – iptv-org
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+
+#EXTINF:-1, Free Global Channels – Free-TV/IPTV
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
